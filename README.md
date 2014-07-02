@@ -15,7 +15,7 @@ Prefix symbols are used to differentiate between the various online services. Fo
 The following is a legend for the supported services and their prefix symbols.
 
 Facebook: $tobiassjosten  
-GitHub: &tobiassjosten  
+GitHub: %tobiassjosten  
 Google: +TobiasSjosten  
 Instagram: #tobiassjosten  
 Twitter: @tobiassjosten  
